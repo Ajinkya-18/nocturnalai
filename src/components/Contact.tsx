@@ -29,10 +29,10 @@ const Contact = () => {
                 Reach out directly for inquiries and project discussions.
               </p>
               <a 
-                href="mailto:hello@noctai.com" 
+                href="mailto:noctai.95@gmail.com" 
                 className="text-noct-electric hover:text-blue-400 font-medium transition-colors duration-300"
               >
-                hello@noctai.com
+                noctai.95@gmail.com
               </a>
             </CardContent>
           </Card>
@@ -47,7 +47,7 @@ const Contact = () => {
                 Schedule a call to discuss your automation needs.
               </p>
               <Button
-                onClick={() => window.open('https://tally.so/placeholder-form', '_blank')}
+                onClick={() => window.open('https://tally.so/r/31Yxz4', '_blank')}
                 variant="outline"
                 className="border-noct-electric text-noct-electric hover:bg-noct-electric hover:text-white transition-all duration-300"
               >
@@ -70,19 +70,20 @@ const Contact = () => {
               </p>
             </div>
             
-            {/* Placeholder for Tally form */}
-            <div className="bg-noct-navy/50 border-2 border-dashed border-gray-600 rounded-xl p-12 text-center">
-              <MessageSquare className="h-12 w-12 text-gray-500 mx-auto mb-4" />
-              <p className="text-gray-400 mb-4">
-                Tally form will be embedded here once the form link is provided.
-              </p>
-              <Button
-                onClick={() => window.open('https://tally.so/placeholder-form', '_blank')}
-                className="bg-noct-electric hover:bg-blue-700 text-white"
+            {/* Embedded Tally Form */}
+            <div className="w-full">
+              <iframe
+                src="https://tally.so/r/31Yxz4"
+                width="100%"
+                height="500"
+                frameBorder="0"
+                marginHeight={0}
+                marginWidth={0}
+                title="Contact Form"
+                className="rounded-xl"
               >
-                Open Form
-                <ArrowRight className="ml-2 h-4 w-4" />
-              </Button>
+                Loading...
+              </iframe>
             </div>
           </CardContent>
         </Card>

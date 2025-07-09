@@ -20,7 +20,7 @@ const Footer = () => {
               You dream it, we automate it
             </p>
             <p className="text-gray-500 text-sm">
-              © 2024 NoctAI. All rights reserved.
+              © 2025 NoctAI. All rights reserved.
             </p>
           </div>
         </div>
