@@ -47,7 +47,7 @@ const Contact = () => {
                 Schedule a call to discuss your automation needs.
               </p>
               <Button
-                onClick={() => window.open('https://tally.so/r/31Yxz4', '_blank')}
+                onClick={() => window.open('https://tally.so/r/31Yxz4', '_blank', 'noopener,noreferrer')}
                 variant="outline"
                 className="border-noct-electric text-noct-electric hover:bg-noct-electric hover:text-white transition-all duration-300"
               >
@@ -70,7 +70,7 @@ const Contact = () => {
               </p>
             </div>
             
-            {/* Embedded Tally Form */}
+            {/* Embedded Tally Form with Enhanced Security */}
             <div className="w-full">
               <iframe
                 src="https://tally.so/r/31Yxz4"
@@ -81,6 +81,9 @@ const Contact = () => {
                 marginWidth={0}
                 title="Contact Form"
                 className="rounded-xl"
+                sandbox="allow-forms allow-scripts allow-same-origin allow-popups"
+                loading="lazy"
+                referrerPolicy="strict-origin-when-cross-origin"
               >
                 Loading...
               </iframe>
