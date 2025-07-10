@@ -1,7 +1,7 @@
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { ExternalLink, MessageSquare, Users, Target, CheckCircle } from "lucide-react";
+import { ExternalLink, MessageSquare, Target } from "lucide-react";
 
 const Portfolio = () => {
   const projects = [
@@ -22,22 +22,6 @@ const Portfolio = () => {
       icon: Target,
       category: "Lead Management",
       link: "https://tally.so/r/31Yxz4"
-    },
-    {
-      title: "E-commerce Order Processing",
-      description: "Automated the entire order fulfillment process for a major retailer, reducing processing time by 85% and eliminating manual errors.",
-      technologies: ["AI Agents", "API Integration", "Slack", "Shopify"],
-      metrics: "85% faster processing",
-      icon: CheckCircle,
-      category: "E-commerce"
-    },
-    {
-      title: "Customer Support Automation",
-      description: "Deployed intelligent chatbots and ticket routing system that handles 80% of customer inquiries automatically.",
-      technologies: ["NLP", "Ticket Management", "CRM Integration", "Teams"],
-      metrics: "80% automation rate",
-      icon: Users,
-      category: "Customer Service"
     }
   ];
 
