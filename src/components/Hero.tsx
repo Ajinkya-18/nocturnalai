@@ -19,7 +19,7 @@ const Hero = () => {
           {/* Logo */}
           <div className="mb-12 flex justify-center">
             <img 
-              src="/lovable-uploads/1986411b-7ec1-44fb-9dbc-2443576a9446.png" 
+              src="/lovable-uploads/0afb799f-f989-4417-94c2-c5dd429f878a.png" 
               alt="NoctAI Logo - Brain to Circuit"
               className="w-24 h-24 md:w-32 md:h-32 object-contain filter drop-shadow-lg"
             />
