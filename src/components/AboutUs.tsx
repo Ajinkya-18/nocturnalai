@@ -1,5 +1,5 @@
 
-import { User, Briefcase } from "lucide-react";
+import { Code, Briefcase } from "lucide-react";
 
 const AboutUs = () => {
   return (
@@ -32,7 +32,7 @@ const AboutUs = () => {
           <div className="grid md:grid-cols-2 gap-12">
             <div className="text-center group hover:scale-105 transition-transform duration-300">
               <div className="bg-noct-electric/10 p-6 rounded-2xl mb-6 inline-block group-hover:bg-noct-electric/20 transition-colors duration-300">
-                <User className="h-12 w-12 text-noct-electric mx-auto" />
+                <Code className="h-12 w-12 text-noct-electric mx-auto" />
               </div>
               <h4 className="text-xl font-semibold text-white mb-2">Ajinkya – Tech Lead & AI Architect</h4>
               <p className="text-gray-400 leading-relaxed">
