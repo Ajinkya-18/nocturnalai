@@ -47,7 +47,7 @@ const Contact = () => {
                 Schedule a call to discuss your automation needs.
               </p>
               <Button
-                onClick={() => window.open('https://tally.so/r/31Yxz4', '_blank', 'noopener,noreferrer')}
+                onClick={() => window.open('https://calendly.com/noctai-95/30min', '_blank', 'noopener,noreferrer')}
                 variant="outline"
                 className="border-noct-electric text-noct-electric hover:bg-noct-electric hover:text-white transition-all duration-300"
               >
