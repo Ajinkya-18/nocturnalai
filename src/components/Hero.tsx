@@ -17,11 +17,11 @@ const Hero = () => {
       <div className="container mx-auto max-w-6xl text-center relative z-10">
         <div className="animate-fade-in">
           {/* Logo Banner */}
-          <div className="mb-8 flex justify-center">
+          <div className="mb-4 flex justify-center">
             <img 
               src="/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
               alt="NoctAI Logo - You dream it, we automate it"
-              className="w-[900px] h-[540px] md:w-[1200px] md:h-[720px] lg:w-[1500px] lg:h-[900px] object-contain filter drop-shadow-2xl"
+              className="w-[900px] h-[300px] md:w-[1200px] md:h-[400px] lg:w-[1500px] lg:h-[500px] object-cover object-center filter drop-shadow-2xl"
             />
           </div>
 
