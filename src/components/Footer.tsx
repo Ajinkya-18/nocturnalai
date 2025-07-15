@@ -6,9 +6,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-3 mb-4 md:mb-0">
             <img 
-              src="/lovable-uploads/0afb799f-f989-4417-94c2-c5dd429f878a.png" 
+              src="/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
               alt="NoctAI Logo"
-              className="w-8 h-8 object-contain"
+              className="w-12 h-8 object-contain"
             />
             <span className="text-white font-semibold text-xl">
               Noct<span className="text-noct-electric">AI</span>
