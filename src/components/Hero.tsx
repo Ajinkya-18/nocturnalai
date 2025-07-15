@@ -21,7 +21,7 @@ const Hero = () => {
             <img 
               src="/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
               alt="NoctAI Logo - You dream it, we automate it"
-              className="w-80 h-48 md:w-96 md:h-60 lg:w-[500px] lg:h-72 object-contain filter drop-shadow-2xl"
+              className="w-[900px] h-[540px] md:w-[1200px] md:h-[720px] lg:w-[1500px] lg:h-[900px] object-contain filter drop-shadow-2xl"
             />
           </div>
 
