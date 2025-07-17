@@ -34,7 +34,7 @@ const AboutUs = () => {
               <div className="bg-noct-electric/10 p-6 rounded-2xl mb-6 inline-block group-hover:bg-noct-electric/20 transition-colors duration-300">
                 <Code className="h-12 w-12 text-noct-electric mx-auto" />
               </div>
-              <h4 className="text-xl font-semibold text-white mb-2">Ajinkya – Tech Lead & AI Architect</h4>
+              <h4 className="text-xl font-semibold text-white mb-2">Ajinkya – CAO (Chief Automation Officer)</h4>
               <p className="text-gray-400 leading-relaxed">
                 CSE undergrad with a specialization in AI/ML. He leads all things technical: architecture, agent design, and system logic.
               </p>
@@ -44,7 +44,7 @@ const AboutUs = () => {
               <div className="bg-noct-electric/10 p-6 rounded-2xl mb-6 inline-block group-hover:bg-noct-electric/20 transition-colors duration-300">
                 <Briefcase className="h-12 w-12 text-noct-electric mx-auto" />
               </div>
-              <h4 className="text-xl font-semibold text-white mb-2">Soham – Business Lead & Client Strategist</h4>
+              <h4 className="text-xl font-semibold text-white mb-2">Soham – CBO (Chief Business Officer)</h4>
               <p className="text-gray-400 leading-relaxed">
                 MBA candidate with a focus on growth, communication, and client experience. He handles sales, discovery, and project direction.
               </p>
