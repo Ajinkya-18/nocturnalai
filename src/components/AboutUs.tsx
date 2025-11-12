@@ -15,7 +15,7 @@ const AboutUs = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <p className="text-xl text-gray-300 leading-relaxed mb-6">
-              At NoctAI, we don't just automate workflows — we build AI Agents that can think, adapt, and act on their own.
+              At NocturnalAI, we don't just automate workflows — we build AI Agents that can think, adapt, and act on their own.
             </p>
             <p className="text-xl text-gray-300 leading-relaxed mb-6">
               Our goal is to free teams from repetitive operations by designing intelligent systems that make real-time decisions and run 24/7 behind the scenes — so humans can focus on what really matters: ideas, product design, and innovation.
