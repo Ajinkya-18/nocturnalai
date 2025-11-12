@@ -7,7 +7,7 @@ const About = () => {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            About NoctAI
+            About NocturnalAI
           </h2>
           <div className="w-24 h-1 bg-noct-electric mx-auto mb-8" />
           <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed font-light">
