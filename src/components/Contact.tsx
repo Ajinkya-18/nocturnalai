@@ -29,10 +29,10 @@ const Contact = () => {
                 Reach out directly for inquiries and project discussions.
               </p>
               <a 
-                href="mailto:noctai.95@gmail.com" 
+                href="mailto:NocturnalAI.95@gmail.com" 
                 className="text-noct-electric hover:text-blue-400 font-medium transition-colors duration-300"
               >
-                noctai.95@gmail.com
+                NocturnalAI.95@gmail.com
               </a>
             </CardContent>
           </Card>
@@ -47,7 +47,7 @@ const Contact = () => {
                 Schedule a call to discuss your automation needs.
               </p>
               <Button
-                onClick={() => window.open('https://calendly.com/noctai-95/30min', '_blank', 'noopener,noreferrer')}
+                onClick={() => window.open('https://calendly.com/NocturnalAI-95/30min', '_blank', 'noopener,noreferrer')}
                 variant="outline"
                 className="border-noct-electric text-noct-electric hover:bg-noct-electric hover:text-white transition-all duration-300"
               >
