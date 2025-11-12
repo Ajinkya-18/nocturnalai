@@ -23,7 +23,7 @@ const Hero = () => {
           {/* Logo Banner */}
           <div className="mb-8 flex justify-center">
             <img 
-              src="/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
+              src="public/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
               alt="NocturnalAI Logo - You dream it, we automate it"
               className="w-[900px] h-[300px] md:w-[1200px] md:h-[400px] lg:w-[1500px] lg:h-[500px] object-cover object-center filter drop-shadow-2xl transition-all duration-700 ease-out hover:scale-105 hover:drop-shadow-[0_0_30px_rgba(0,102,255,0.3)]"
             />
