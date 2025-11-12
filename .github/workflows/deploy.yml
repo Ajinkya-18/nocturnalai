@@ -42,7 +42,7 @@ jobs:
         # Replace 'YOUR_REPO_NAME' with your actual repo name (e.g., 'nocturnalai-website')
         # This VITE_BASE_URL env var will be read by your vite.config.ts
         env:
-          VITE_BASE_URL: /YOUR_REPO_NAME/
+          VITE_BASE_URL: nocturnalai
         run: bun run build
 
       - name: Setup Pages
