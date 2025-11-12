@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="flex items-center space-x-3 mb-4 md:mb-0">
             <img 
               src="/lovable-uploads/a19821e3-e5c7-4230-9557-2cd4331b1283.png" 
-              alt="NoctAI Logo"
+              alt="NocturnalAI Logo"
               className="w-12 h-8 object-contain"
             />
             <span className="text-white font-semibold text-xl">
@@ -20,7 +20,7 @@ const Footer = () => {
               You dream it, we automate it
             </p>
             <p className="text-gray-500 text-sm">
-              © 2025 NoctAI. All rights reserved.
+              © 2025 NocturnalAI. All rights reserved.
             </p>
           </div>
         </div>
